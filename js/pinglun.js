@@ -1,5 +1,5 @@
 new Valine({
-    el: source/_posts/第二篇文章的标题.md ,
+    el: '#vcomments' ,
     appId: kn3BDjau4t9OdEoozxOuDEoK-MdYXbMMI,
     appKey: KJDZrLfjnr98M5YhPTnnCzQQ
 });
@@ -10,6 +10,6 @@ import Valine from 'valine';
 const Valine = require('valine');
 
 new Valine({
-    el:source/_posts/第二篇文章的标题.md,
+    el:'#vcomments',
     // other config
 })
