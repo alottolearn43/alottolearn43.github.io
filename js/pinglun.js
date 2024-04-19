@@ -1,7 +1,7 @@
 new Valine({
     el: '#vcomments' ,
-    appId: kn3BDjau4t9OdEoozxOuDEoK-MdYXbMMI,
-    appKey: KJDZrLfjnr98M5YhPTnnCzQQ
+    appId: 'kn3BDjau4t9OdEoozxOuDEoK-MdYXbMMI',
+    appKey: 'KJDZrLfjnr98M5YhPTnnCzQQ'
 });
 
 // Use import
